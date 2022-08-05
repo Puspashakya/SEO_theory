@@ -1,0 +1,115 @@
+SEO (Search Engine Optimization)
+	what is SEO, Importance, types, how it works, picture
+
+
+
+SEO-search engine optimization  
+hamile search engine chalauxau  like google, safari
+hami lai kei chayo vane google ma search 
+  search garnu bitikai 1st ma aaune result nai SEO le garda aaune ho 
+.  like when we search best laptop seller in ktm vanera search garyo vane 
+vane agadi aaune nai SEO le garda aaune ho.    Afno website ko visisbility badauna lai
+and process of increasing the quality of the website. 
+
+
+SEO ma kk parcha ta!
+a. title milaune 
+b. meta data milaune
+c. heading tags haru 
+d. image lai optimize garne 
+e. descriptive url rakhne
+f. robot text
+      without applying SEO our website cant be in No.1
+
+
+why important 
+a. organic search result   (1st ma aaunu)
+b. quality of organic traffic (google ma chai aru vanda ramro )
+c. quantity of organic traffic(1 lakh le search garda ni 10 lakh le search garda ni afnai site aauneu ho)
+
+
+Importance of SEO in Digital Marketing
+a. Ranking and visibility
+b. Increased web traffic 
+c. creaddibility and trustworthiness
+d. Better user experience 
+e. Long-term growth
+
+
+TYPES OF SEO
+a. White Hat SEO  (google ko rules haru follow garne like aru ko content na chorne)
+b. Black Hat SEO (google ko rules violate garnu like paid chij lai free ma khojnu ho  and free movie ma jada adulit content ma janu ja
+
+
+
+How Search Engine Works?
+a. Crawling (robot bud ho yesko kam sab www lai read garnu ho sab chaine data arko data center bata afno ma lyauxa)
+b. Indexing (crawling sake xi indexing which is afno memory ma rakhxa)
+c. Retrieval (Ranking) (this is the final state user ko search Query anusar google le rank garxa order by price alphabet)
+
+google le sab information dina sakdaina only crawling wala haru matra dinxara indexing 
+
+haru matra
+
+harek search engine ko afanai searching algorithm use garxa 
+
+
+Ranking factor tannai hunxa like 
+domain factor, page-level factor, site-level factor etc etc  sano sano factor le pani farak garxa
+ Old Domain ko age lai pani matter garxa and teslai deko paisa 
+
+we will work mostly on the page-level factor
+
+
+
+types/strategies of SEO
+a. On-page SEO
+b. Off-page SEO
+
+
+a. On-page SEO
+	jun page ko content ra element ho. optimizing the element of website
+important on On-page SEO
+1. Keyword Research (cake in KTM, family cake in KTM)
+2. Title Tag(title xa html ko tei ho title ko character 140-150 vanda badi na hoss)
+3. Meta Description (meta tag ma rakhne metatype="Description")
+4. URL structre (id pass garxau ni a href ma tei ho www.alkjdf.com na rakhne but slug banayera rakhne,, url ekdum meaningfull hunu paryo)
+5. Header tag (h1 to h6 samma ko tag seo ma ekdum use hunxa heading h1 ma hunai parxa )
+6. Internal Link (wikipedia tannai xa internal link differenct page of same content)
+7. Keyword uses(related keyword haru lai use garne,keyword stuffing garnu hudaina, Best laptop in pokhara vanne keyword, appropriate keyword rakhne)
+8. Sitemaps (Road map or google map same website ko map,  use garera differenct location of web ma jane)
+	i. html sitemap= designed for human
+	ii. xml sitemap= designed for crawlers
+
+
+
+b. Off-page SEO
+	Content sanga related hunxa. website ko speed increase. high quality, linking quality. page ko ranking badaune
+backlink increase garne (website ko link banaune) mero sathi lai vanne tero website ma mero pani web ko link halde vanne
+Biggest role vannu nai link building. process of acquiring hperlinks from other website to your site. also known as external building
+external building nai off-page SEO.   Main role in SEO is CONTENT  quality   ---SEO friendly content
+
+
+CONCLUSION
+SEO research and analysis
+keyword research competitor's analysis 
+	right keyword halne irrelevant kura nahalne   so keyword research is very important
+your webpage have to compete with millions of webpage 
+SEO guidelines 
+website design guidelines content optimization seo design and layout
+top seo tools
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
